@@ -1,7 +1,7 @@
 # Udacity Self-Driving Car Engineer Nanodegree Program
 ## Vehicle Detection Project
 
-*Find the original instructions for this project in [Udacity's repo](https://github.com/udacity/CarND-Vehicle-Detection)*
+*Find the original instructions for this project in [JABBAR's repo](https://github.com/JABBAR)*
 
 ---
 
